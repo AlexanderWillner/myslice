@@ -23,7 +23,7 @@ $ pip install geopy
 $ pip install paramiko
 $ pip install pyparsing
 $ pip install python-dateutil
-$ pip instal pyOpenSSL
+$ pip install pyOpenSSL
 $ pip install xmltodict
 
 MYSLICE
